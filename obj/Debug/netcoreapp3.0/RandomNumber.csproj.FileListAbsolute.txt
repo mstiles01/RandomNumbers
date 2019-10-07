@@ -1,0 +1,11 @@
+/Users/michaelstiles/workspace/csharp/exercises/RandomNumber/bin/Debug/netcoreapp3.0/RandomNumber
+/Users/michaelstiles/workspace/csharp/exercises/RandomNumber/bin/Debug/netcoreapp3.0/RandomNumber.deps.json
+/Users/michaelstiles/workspace/csharp/exercises/RandomNumber/bin/Debug/netcoreapp3.0/RandomNumber.runtimeconfig.json
+/Users/michaelstiles/workspace/csharp/exercises/RandomNumber/bin/Debug/netcoreapp3.0/RandomNumber.runtimeconfig.dev.json
+/Users/michaelstiles/workspace/csharp/exercises/RandomNumber/bin/Debug/netcoreapp3.0/RandomNumber.dll
+/Users/michaelstiles/workspace/csharp/exercises/RandomNumber/bin/Debug/netcoreapp3.0/RandomNumber.pdb
+/Users/michaelstiles/workspace/csharp/exercises/RandomNumber/obj/Debug/netcoreapp3.0/RandomNumber.csprojAssemblyReference.cache
+/Users/michaelstiles/workspace/csharp/exercises/RandomNumber/obj/Debug/netcoreapp3.0/RandomNumber.AssemblyInfoInputs.cache
+/Users/michaelstiles/workspace/csharp/exercises/RandomNumber/obj/Debug/netcoreapp3.0/RandomNumber.AssemblyInfo.cs
+/Users/michaelstiles/workspace/csharp/exercises/RandomNumber/obj/Debug/netcoreapp3.0/RandomNumber.dll
+/Users/michaelstiles/workspace/csharp/exercises/RandomNumber/obj/Debug/netcoreapp3.0/RandomNumber.pdb
